@@ -21,3 +21,5 @@ class QuadraticEquationSolver:
 
 
 # 14226168987236931358
+
+# 18049168987236910994
