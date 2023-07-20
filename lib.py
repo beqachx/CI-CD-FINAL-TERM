@@ -18,3 +18,6 @@ class QuadraticEquationSolver:
             (-self.b + d**0.5) / (2 * self.a),
             (-self.b - d**0.5) / (2 * self.a),
         ]
+
+
+# 21739168987207010469
