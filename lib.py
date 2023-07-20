@@ -1,7 +1,7 @@
 # pytest_passed_black_passed
 class QuadraticEquationSolver:
     def __init__(self, a, b, c):
-        self.a = a
+         self.a = a
          self.b = b
          self.c = c
 
