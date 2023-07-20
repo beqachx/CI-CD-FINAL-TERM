@@ -2,8 +2,8 @@
 class QuadraticEquationSolver:
     def __init__(self, a, b, c):
         self.a = a
-         self.b = b
-         self.c = c
+        self.b = b
+        self.c = c
 
     def solve(self):
         d = self.b**2 - 4 * self.a * self.c
